@@ -27,3 +27,12 @@ The final project was split into the following:
 * [Data summary report](data_viz_professionals_project/data_summary.pdf)
 * [Implementation report](data_viz_professionals_project/implementation_plan.pdf)
 * [Evaluation plan](data_viz_professionals_project/evaluation_plan.pdf)
+
+## Data drawings
+
+Some drawings of data visualisations (mixture of pencil, pen and paint). 
+
+![Top 7 European countries by volume of beer produced in 2018](drawings/beer_volume.png)
+![Top 12 coutries by forest area](drawings/forest_area.png)
+![Average % of sunshine hours in Edinburgh in a 12 hour day](drawings/sunshine_hours.png)
+![Total steps per hour of the day by each year](drawings/steps_per_year_long.png)
