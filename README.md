@@ -18,7 +18,7 @@ During the course we learnt about:
 - data physicalisation
 - critical evaluation of visualisations
 
-Below are links to my final project which involved an end-to-end visualisation task (from creating the brief and initial sketching through to implementation and user evaluation). My final project used Scottish Government open data and looked at the percentage of population in Scotland who are in close proximity of green space and how this changed over time.
+I have uploaded my final project which involved an end-to-end visualisation task from creating the brief and initial sketching through to implementation and user evaluation for which I received the highest possible grade, Merit. My final project used Scottish Government open data and looked at the percentage of population in Scotland who are in close proximity of green space and the change over time.
 
 The final project was split into the following:  
 
@@ -32,7 +32,14 @@ The final project was split into the following:
 
 Some drawings of data visualisations (mixture of pencil, pen and paint). 
 
-![Top 7 European countries by volume of beer produced in 2018](drawings/beer_volume.png)
-![Top 12 coutries by forest area](drawings/forest_area.png)
-![Average % of sunshine hours in Edinburgh in a 12 hour day](drawings/sunshine_hours.png)
-![Total steps per hour of the day by each year](drawings/steps_per_year_long.png)
+Top 7 European countries by volume of beer produced in 2018:
+![](drawings/beer_volume.png)
+
+Top 12 coutries by forest area:
+![](drawings/forest_area.png)
+
+Average % of sunshine hours in Edinburgh in a 12 hour day:
+![](drawings/sunshine_hours.png)
+
+My total steps per hour of the day by each year:
+![](drawings/steps_per_year_long.png)
