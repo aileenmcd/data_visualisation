@@ -32,9 +32,6 @@ The final project was split into the following:
 
 Some drawings of data visualisations (mixture of pencil, pen and paint). 
 
-Top 7 European countries by volume of beer produced in 2018:
-![](drawings/beer_volume.png)
-
 Top 12 coutries by forest area:
 ![](drawings/forest_area.png)
 
@@ -43,3 +40,6 @@ Average % of sunshine hours in Edinburgh in a 12 hour day:
 
 My total steps per hour of the day by each year:
 ![](drawings/steps_per_year_long.png)
+
+Top 7 European countries by volume of beer produced in 2018:
+![](drawings/beer_volume.png)
